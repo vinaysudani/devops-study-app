@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/vinaysudani/devops-study-app/compare/backend-v0.2.2...backend-v0.2.3) (2026-07-31)
+
+
+### Bug Fixes
+
+* **gha:** fix docker build push workflow ([36ec9c8](https://github.com/vinaysudani/devops-study-app/commit/36ec9c80a50c547153339bc4951ab3ec448b7a5e))
+
 ## [0.2.2](https://github.com/vinaysudani/devops-study-app/compare/backend-v0.2.1...backend-v0.2.2) (2026-07-31)
 
 
