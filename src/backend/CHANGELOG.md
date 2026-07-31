@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/vinaysudani/devops-study-app/compare/backend-v0.2.0...backend-v0.2.1) (2026-07-31)
+
+
+### Bug Fixes
+
+* **backend:** trigger ci ([d03efc4](https://github.com/vinaysudani/devops-study-app/commit/d03efc418de7c4626cec656b79714914ce76efd5))
+
 ## [0.2.0](https://github.com/vinaysudani/devops-study-app/compare/backend-v0.1.0...backend-v0.2.0) (2026-07-25)
 
 
