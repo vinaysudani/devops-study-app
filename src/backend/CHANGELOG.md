@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/vinaysudani/devops-study-app/compare/backend-v0.2.1...backend-v0.2.2) (2026-07-31)
+
+
+### Bug Fixes
+
+* **backed:** trigger release ([7477d2e](https://github.com/vinaysudani/devops-study-app/commit/7477d2ea53a8fc665c92c8c95a32a1fe4f31fc46))
+
 ## [0.2.1](https://github.com/vinaysudani/devops-study-app/compare/backend-v0.2.0...backend-v0.2.1) (2026-07-31)
 
 
